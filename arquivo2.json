@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "Lucas Silva",
+    "tel": "Lucas Silva",
+    "email": "lucas.silva@example.com",
+    "roles": [
+        "user",
+        "asaa"
+    ],
+    "isActive": false
+}
